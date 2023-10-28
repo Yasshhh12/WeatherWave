@@ -1,2 +1,2 @@
 # WeatherWave
-This is a Web-based to check whether.
+This is a Web-based application to check whether.
